@@ -1,0 +1,9 @@
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\bin\Debug\SpexTelescope.exe.config
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\bin\Debug\SpexTelescope.exe
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\bin\Debug\SpexTelescope.pdb
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.csprojResolveAssemblyReference.cache
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.Properties.Resources.resources
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.csproj.GenerateResource.Cache
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.exe
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.pdb
+D:\La Puerta\SpexDirectory\SpexDirectory\SpexTelescope\obj\Debug\SpexTelescope.MainWindow.resources
